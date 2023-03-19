@@ -1,0 +1,19 @@
+{
+  "asmenys": [
+    {
+      "vardas": "onute",
+      "amzius": 45,
+      "lytis": "moteris",
+      "pomegiai": ["skaitymas", "jodinejimas", "plaukiojimas"]},
+    {
+      "vardas": "kazyte",
+      "amzius": 45,
+      "lytis": "moteris",
+      "pomegiai": ["skaitymas", "jodinejimas", "plaukiojimas"]},
+    {
+      "vardas": "elenyte",
+      "amzius": 45,
+      "lytis": "moteris",
+      "pomegiai": ["skaitymas", "jodinejimas", "plaukiojimas"]}
+  ]
+}
